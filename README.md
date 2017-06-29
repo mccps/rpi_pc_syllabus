@@ -1,14 +1,8 @@
----
-layout: default
-permalink: /
----
-
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+* **Course:** [Raspberry Pi Physical Computing](https://www.raspberrypi.org/learning/physical-computing-with-python/)
+* **Instructor:** Whomever shows up
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
